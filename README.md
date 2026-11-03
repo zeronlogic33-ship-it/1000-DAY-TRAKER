@@ -3,7 +3,8 @@
 
 A state-of-the-art, feature-rich single-page web application designed for elite personal discipline, long-term habit tracking, and high-performance routine management. 
 
-![1000-Day Habit Tracker Preview](./assets/screenshot.png)
+![1000-Day Habit Tracker Preview](![Uploading Screenshot 2026-11-03 235814.png…]()
+)
 
 ---
 
